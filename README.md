@@ -3,6 +3,9 @@
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
+ this is the vercel deployment link   https://honeyfi.netlify.app/
+
+ this the demo link https://www.youtube.com/watch?v=dTyEKbOlmO4
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
 
